@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1482049463 source:c:\users\toshiba\documents\c++\matrix\main.cpp
+	<iostream>
+	<conio.h>
+
+1482049463 source:c:\users\toshiba\documents\c++\home\matrix\main.cpp
+	<iostream>
+	<conio.h>
+
+1482049463 source:f:\projects\c++\home\matrix\main.cpp
+	<iostream>
+	<conio.h>
+
